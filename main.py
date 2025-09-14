@@ -1,4 +1,4 @@
-n = int(input())
+n = input()
 if len(n)!=5 or not n.isdigit():
   print("输出错误")
 else:
